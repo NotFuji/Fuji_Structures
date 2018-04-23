@@ -63,11 +63,11 @@
         "l": "f_chair",
         "m": "f_dresser",
         "n": "f_bookcase",
-        "p": "f_toilet",
         "q": "f_bathtub",
         "r": "f_indoor_plant",
         "t": "f_table"
       },
+	  "toilets": { "p": {  } },
       "place_loot": [
         {
           "group": "mansion_books",

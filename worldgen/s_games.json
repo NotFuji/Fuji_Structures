@@ -60,10 +60,10 @@
         "m": "f_crate_c",
         "n": "f_dumpster",
         "o": "f_trashcan",
-        "q": "f_toilet",
         "r": "f_sink",
         "s": "f_locker"
       },
+	  "toilets": { "q": {  } },
       "place_loot": [
         { "group": "magazines", "chance": 50, "repeat": [ 5 ], "x": [ 2, 6 ], "y": [ 9, 9 ] },
         { "group": "bookstore_misc", "chance": 50, "repeat": [ 5 ], "x": [ 3, 5 ], "y": [ 12, 12 ] },

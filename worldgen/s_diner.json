@@ -59,7 +59,6 @@
         "e": "f_counter",
         "f": "f_table",
         "g": "f_chair",
-        "j": "f_toilet",
         "k": "f_sink",
         "l": "f_trashcan",
         "m": "f_trashcan",
@@ -72,6 +71,7 @@
         "u": "f_table",
         "v": "f_chair"
       },
+	  "toilets": { "j": {  } },
       "place_loot": [
         { "group": "bar_trash", "chance": 50, "repeat": [ 4 ], "x": [ 4, 4 ], "y": [ 21, 21 ] },
         { "group": "bar_trash", "chance": 50, "repeat": [ 4 ], "x": [ 4, 4 ], "y": [ 17, 17 ] },

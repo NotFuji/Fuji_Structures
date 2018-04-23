@@ -63,7 +63,6 @@
         "m": "f_displaycase",
         "n": "f_table",
         "o": "f_locker",
-        "p": "f_toilet",
         "q": "f_sink",
         "r": "f_trashcan",
         "s": "f_crate_c",
@@ -73,6 +72,7 @@
         "w": "f_dumpster",
         "x": "f_sandbag_wall"
       },
+	  "toilets": { "p": {  } },
       "place_loot": [
         {
           "group": "guns_rifle_common",

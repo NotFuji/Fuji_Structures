@@ -78,9 +78,9 @@
         "x": "f_canvas_door",
         "y": "f_vending_c",
         "z": "f_trashcan",
-        "A": "f_sink",
-        "B": "f_toilet"
+        "A": "f_sink"
       },
+	  "toilets": { "B": {  } },
       "place_loot": [
         { "group": "cannedfood", "chance": 50, "repeat": [ 10 ], "x": [ 3, 3 ], "y": [ 4, 10 ] },
         { "group": "swimmer_shoes", "chance": 50, "repeat": [ 2 ], "x": [ 4, 4 ], "y": [ 4, 5 ] },

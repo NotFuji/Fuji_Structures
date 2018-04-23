@@ -48,13 +48,13 @@
         "n": "t_floor"
       },
       "furniture": {
-        "i": "f_toilet",
         "j": "f_sink",
         "k": "f_table",
         "l": "f_chair",
         "m": "f_locker",
         "n": "f_vending_c"
       },
+	  "toilets": { "i": {  } },
       "place_loot": [
         { "group": "office", "chance": 50, "repeat": [ 5 ], "x": [ 7, 7 ], "y": [ 22, 22 ] },
         { "group": "office", "chance": 50, "repeat": [ 5 ], "x": [ 2, 2 ], "y": [ 22, 21 ] },
