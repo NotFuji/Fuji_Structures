@@ -1,0 +1,200 @@
+[
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_gunstore",
+    "name" : "gun store",
+    "sym" : 103,
+    "color" : "red",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_diner",
+    "name" : "diner",
+    "sym" : 100,
+    "color" : "green",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_apt",
+    "name" : "apartment",
+    "sym" : 65,
+    "color" : "light_green",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_apt_2",
+    "name" : "apartment",
+    "sym" : 65,
+    "color" : "light_green",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_cardealer",
+    "name" : "dealership",
+    "sym" : 48,
+    "color" : "blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_camping",
+    "name" : "outdoorsman's store",
+    "sym" : 111,
+    "color" : "brown",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_games",
+    "name" : "gaming store",
+    "sym" : 103,
+    "color" : "cyan",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_air_term",
+    "name" : "airport",
+    "sym" : 65,
+    "color" : "i_cyan",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_air_parking",
+    "name" : "airport",
+    "sym" : 65,
+    "color" : "i_cyan",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_air_atc",
+    "name" : "airport",
+    "sym" : 65,
+    "color" : "i_cyan",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_air_atc_2",
+    "name" : "airport",
+    "sym" : 65,
+    "color" : "i_cyan",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_air_atc_3",
+    "name" : "airport",
+    "sym" : 65,
+    "color" : "i_cyan",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_air_hangars",
+    "name" : "airport",
+    "sym" : 65,
+    "color" : "i_cyan",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_air_runway",
+    "name" : "runway",
+    "sym" : 48,
+    "color" : "blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_air_runway_hangars",
+    "name" : "runway",
+    "sym" : 48,
+    "color" : "blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_air_runway_l",
+    "name" : "runway",
+    "sym" : 48,
+    "color" : "blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_air_runway_r",
+    "name" : "runway",
+    "sym" : 48,
+    "color" : "blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_air_runway_term",
+    "name" : "runway",
+    "sym" : 48,
+    "color" : "blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  }
+]
