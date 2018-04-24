@@ -79,84 +79,96 @@
           "chance": 50,
           "repeat": [ 1 ],
           "x": [ 15, 15 ],
-          "y": [ 9, 9 ]
+          "y": [ 9, 9 ], 
+		  "magazine": 100
         },
         {
           "group": "guns_rifle_common",
           "chance": 50,
           "repeat": [ 1 ],
           "x": [ 15, 15 ],
-          "y": [ 10, 10 ]
+          "y": [ 10, 10 ], 
+		  "magazine": 100
         },
         {
           "group": "guns_smg_common",
           "chance": 50,
           "repeat": [ 1 ],
           "x": [ 15, 15 ],
-          "y": [ 11, 11 ]
+          "y": [ 11, 11 ], 
+		  "magazine": 100
         },
         {
           "group": "guns_shotgun_common",
           "chance": 50,
           "repeat": [ 1 ],
           "x": [ 15, 15 ],
-          "y": [ 12, 12 ]
+          "y": [ 12, 12 ], 
+		  "magazine": 100
         },
         {
           "group": "guns_shotgun_common",
           "chance": 50,
           "repeat": [ 1 ],
           "x": [ 15, 15 ],
-          "y": [ 13, 13 ]
+          "y": [ 13, 13 ], 
+		  "magazine": 100
         },
         {
           "group": "guns_pistol_rare",
           "chance": 40,
           "repeat": [ 1 ],
           "x": [ 12, 12 ],
-          "y": [ 12, 12 ]
+          "y": [ 12, 12 ], 
+		  "magazine": 100
         },
         {
           "group": "guns_pistol_obscure",
           "chance": 30,
           "repeat": [ 1 ],
           "x": [ 12, 12 ],
-          "y": [ 13, 13 ]
+          "y": [ 13, 13 ], 
+		  "magazine": 100
         },
         {
           "group": "guns_rifle_milspec",
           "chance": 80,
           "repeat": [ 3 ],
           "x": [ 13, 13 ],
-          "y": [ 15, 15 ]
+          "y": [ 15, 15 ], 
+		  "magazine": 100
         },
         {
           "group": "guns_pistol_common",
           "chance": 100,
           "repeat": [ 1 ],
           "x": [ 11, 11 ],
-          "y": [ 15, 15 ]
+          "y": [ 15, 15 ], 
+		  "magazine": 100
         },
         {
           "group": "guns_pistol_rare",
           "chance": 80,
           "repeat": [ 1 ],
           "x": [ 17, 17 ],
-          "y": [ 9, 9 ]
+          "y": [ 9, 9 ], 
+		  "magazine": 100
         },
         {
           "group": "guns_pistol_rare",
           "chance": 40,
           "repeat": [ 1 ],
           "x": [ 19, 19 ],
-          "y": [ 9, 9 ]
+          "y": [ 9, 9 ], 
+		  "magazine": 100
         },
         {
           "group": "guns_pistol_rare",
           "chance": 40,
           "repeat": [ 1 ],
           "x": [ 21, 21 ],
-          "y": [ 9, 9 ]
+          "y": [ 9, 9 ], 
+		  "magazine": 100
         },
         {
           "group": "mags_rifle_common",
@@ -339,14 +351,16 @@
           "chance": 50,
           "repeat": [ 1 ],
           "x": [ 12, 12 ],
-          "y": [ 10, 10 ]
+          "y": [ 10, 10 ], 
+		  "magazine": 100
         },
         {
           "group": "guns_pistol_common",
           "chance": 50,
           "repeat": [ 1 ],
           "x": [ 12, 12 ],
-          "y": [ 11, 11 ]
+          "y": [ 11, 11 ], 
+		  "magazine": 100
         }
       ]
     }
