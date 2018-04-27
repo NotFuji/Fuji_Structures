@@ -12,8 +12,8 @@
         "                       b",
         "                       b",
         "bbbbbbbbbbbbbbbbb      b",
-        "                        ",
-        "                        ",
+        "ddddddddddddddddb       ",
+        "bbbbbbbbbbbbbbbbb       ",
         "                        ",
         "                        ",
         "                        ",
@@ -31,9 +31,12 @@
         "aaab          baaaaaaaaa",
         "bbbb          baaaaaaaaa"
       ],
-      "terrain": { 	"a": [ "t_grass", "t_grass", "t_grass", "t_dirt" ],
-					"b": "t_sidewalk", 
-					"c": "t_pavement_y" },
+      "terrain": {
+        "a": [ "t_grass", "t_grass", "t_grass", "t_dirt" ],
+        "b": "t_sidewalk",
+        "c": "t_pavement_y",
+        "d": "t_shrub"
+      },
       "furniture": {}
     }
   }

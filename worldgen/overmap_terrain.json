@@ -200,9 +200,9 @@
   {
     "type" : "overmap_terrain",
     "id" : "s_lightindustry_road_0",
-    "name" : "Light Industry",
-    "sym" : 48,
-    "color" : "blue",
+    "name" : "light industry",
+    "sym" : 4194417,
+    "color" : "dark_gray",
     "see_cost" : 5,
     "extras" : "build",
     "mondensity" : 2
@@ -210,9 +210,9 @@
   {
     "type" : "overmap_terrain",
     "id" : "s_lightindustry_road_1",
-    "name" : "Light Industry",
-    "sym" : 48,
-    "color" : "blue",
+    "name" : "light industry",
+    "sym" : 4194417,
+    "color" : "dark_gray",
     "see_cost" : 5,
     "extras" : "build",
     "mondensity" : 2
@@ -220,9 +220,9 @@
   {
     "type" : "overmap_terrain",
     "id" : "s_lightindustry_00",
-    "name" : "Light Industry",
-    "sym" : 48,
-    "color" : "blue",
+    "name" : "light industry",
+    "sym" : 73,
+    "color" : "light_blue",
     "see_cost" : 5,
     "extras" : "build",
     "mondensity" : 2
@@ -230,9 +230,9 @@
   {
     "type" : "overmap_terrain",
     "id" : "s_lightindustry_01",
-    "name" : "Light Industry",
-    "sym" : 48,
-    "color" : "blue",
+    "name" : "light industry",
+    "sym" : 73,
+    "color" : "light_blue",
     "see_cost" : 5,
     "extras" : "build",
     "mondensity" : 2
@@ -240,9 +240,9 @@
   {
     "type" : "overmap_terrain",
     "id" : "s_lightindustry_10",
-    "name" : "Light Industry",
-    "sym" : 48,
-    "color" : "blue",
+    "name" : "light industry",
+    "sym" : 73,
+    "color" : "light_blue",
     "see_cost" : 5,
     "extras" : "build",
     "mondensity" : 2
@@ -250,11 +250,65 @@
   {
     "type" : "overmap_terrain",
     "id" : "s_lightindustry_11",
-    "name" : "Light Industry",
-    "sym" : 48,
-    "color" : "blue",
+    "name" : "light industry",
+    "sym" : 73,
+    "color" : "light_blue",
     "see_cost" : 5,
     "extras" : "build",
     "mondensity" : 2
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_gas_g1",
+    "name" : "gas station",
+    "sym" : 73,
+    "color" : "light_blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_gas_g0",
+    "name" : "gas station",
+    "sym" : 73,
+    "color" : "light_blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_gas_b11",
+    "name" : "reception",
+    "sym" : 82,
+    "color" : "red",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_gas_b20",
+    "name" : "bunker",
+    "sym" : 103,
+    "color" : "red",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_gas_b21",
+    "name" : "bunker",
+    "sym" : 103,
+    "color" : "red",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2,
+    "flags" : [ "SIDEWALK" ]
   }
 ]
