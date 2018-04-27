@@ -5,6 +5,6 @@
         "name": "Fuji's More Buildings",
         "description": "Adds more buildings and more variations to existing buildings.",
 		"category": "buildings",
-	    "dependencies": ["dda"],
-		"author": "Fuji"
+		"author": "Fuji",
+		"dependencies": [ "dda", "more_buildings" ]
     }

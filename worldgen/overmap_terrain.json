@@ -196,5 +196,65 @@
     "extras" : "build",
     "mondensity" : 2,
     "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_lightindustry_road_0",
+    "name" : "Light Industry",
+    "sym" : 48,
+    "color" : "blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_lightindustry_road_1",
+    "name" : "Light Industry",
+    "sym" : 48,
+    "color" : "blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_lightindustry_00",
+    "name" : "Light Industry",
+    "sym" : 48,
+    "color" : "blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_lightindustry_01",
+    "name" : "Light Industry",
+    "sym" : 48,
+    "color" : "blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_lightindustry_10",
+    "name" : "Light Industry",
+    "sym" : 48,
+    "color" : "blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_lightindustry_11",
+    "name" : "Light Industry",
+    "sym" : 48,
+    "color" : "blue",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2
   }
 ]
