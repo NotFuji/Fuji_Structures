@@ -310,5 +310,25 @@
     "extras" : "build",
     "mondensity" : 2,
     "flags" : [ "SIDEWALK" ]
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_bunker_shop_g",
+    "name" : "derelict property",
+    "sym" : 94,
+    "color" : "white",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2
+  },
+  {
+    "type" : "overmap_terrain",
+    "id" : "s_bunker_shop_b",
+    "name" : "scavenger bunker",
+    "sym" : 66,
+    "color" : "light_green",
+    "see_cost" : 5,
+    "extras" : "build",
+    "mondensity" : 2
   }
 ]
