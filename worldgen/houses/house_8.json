@@ -81,7 +81,6 @@
         "g": "f_dumpster",
         "i": "f_oven",
         "j": "f_sink",
-        "k": "f_toilet",
         "l": "f_bathtub",
         "m": "f_counter",
         "n": "f_fridge",
@@ -104,6 +103,7 @@
         "v": "f_chair",
         "w": "f_shower"
       },
+      "toilets": { "k": {  } },
       "place_loot": [
         { "group": "tools_home", "chance": 60, "repeat": [ 4 ], "x": [ 6, 6 ], "y": [ 8, 8 ] },
         { "group": "cleaning_bulk", "chance": 60, "repeat": [ 4 ], "x": [ 6, 6 ], "y": [ 9, 9 ] },

@@ -78,7 +78,6 @@
         "g": "f_dumpster",
         "i": "f_oven",
         "j": "f_sink",
-        "k": "f_toilet",
         "l": "f_bathtub",
         "m": "f_counter",
         "n": "f_fridge",
@@ -100,6 +99,7 @@
         "R": "f_rack",
         "v": "f_chair"
       },
+      "toilets": { "k": {  } },
       "place_loot": [
         { "group": "homebooks", "chance": 60, "repeat": [ 2 ], "x": [ 14, 14 ], "y": [ 9, 9 ] },
         { "group": "homebooks", "chance": 60, "repeat": [ 2 ], "x": [ 15, 15 ], "y": [ 9, 9 ] },

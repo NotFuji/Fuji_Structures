@@ -78,7 +78,6 @@
         "g": "f_dumpster",
         "i": "f_oven",
         "j": "f_sink",
-        "k": "f_toilet",
         "l": "f_bathtub",
         "m": "f_counter",
         "n": "f_fridge",
@@ -100,6 +99,7 @@
         "R": "f_rack",
         "v": "f_locker"
       },
+      "toilets": { "k": {  } },
       "place_loot": [
         { "group": "dresser", "chance": 80, "repeat": [ 4 ], "x": [ 19, 19 ], "y": [ 13, 13 ] },
         { "group": "dresser", "chance": 80, "repeat": [ 4 ], "x": [ 16, 16 ], "y": [ 18, 18 ] },
